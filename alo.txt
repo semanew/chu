@@ -1,3 +1,4 @@
 hellooooo
 
-new  changes annd save
+new  changes and save this again 
+this change was smade when learning vim how do quite this shit
