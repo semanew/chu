@@ -1,4 +1,4 @@
 hellooooo
 
 new  changes and save this again 
-this change was smade when learning vim how do quite this shit
+this change was made when learning vim 
